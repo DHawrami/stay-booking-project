@@ -1,2 +1,2 @@
 # stay-booking
-Booking system for Bed &amp; Breakfast
+Booking for Bed &amp; Breakfast
